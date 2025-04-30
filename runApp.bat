@@ -1,0 +1,1 @@
+"F:\Program Files\Java\jdk-17\bin\java.exe" -jar ".\build\libs\testproject-1.0.jar"
